@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GOROOT" url="file:///usr/local/Environment/Compiler/Golang/go" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Environment\GM\repository" />
+        <option name="mavenHome" value="E:/Environment/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\Environment\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+</project>
