@@ -1,0 +1,22 @@
+{{define  "pub/head.html"}}
+
+    {{/*数据流动方向 --》 主 --> 从 */}}
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+        <link rel="stylesheet" href="/static/css/head.css">
+    </head>
+    <body>
+    <h1>
+        公共头部--{{ UnixToTime  1640869714}}
+        公共头部--{{ UnixToTime  .date}}
+    </h1>
+    <h3>
+        {{ .mode}}
+    </h3>
+
+    </body>
+    </html>
+{{end}}
